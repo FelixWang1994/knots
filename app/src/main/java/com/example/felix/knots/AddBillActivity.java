@@ -1,3 +1,8 @@
+/*
+Following codes are how to add bill in our app, it combines how I use Google Map Api, 
+how I use Firebase, how I use the click listener for Android activity.
+*/
+
 package com.example.felix.knots;
 
 import android.app.AlertDialog;
